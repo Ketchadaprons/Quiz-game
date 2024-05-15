@@ -13,17 +13,17 @@ const questions = [
     answers: [
       { text: "100 to 500 pounds", correct: false },
       { text: "600 10 1000 pounds", correct: false },
-      { text: "5,000 to 14,000 pounds", correct: ture },
+      { text: "5,000 to 14,000 pounds", correct: true },
       { text: "20,000 to 25,000pounds", correct: false },
     ],
   },
   {
     question: "How many bones are in a giraffe's neck?",
     answers: [
-      { text: "100", correct: true },
+      { text: "100", correct: false },
       { text: "300", correct: false },
       { text: "500", correct: false },
-      { text: "700", correct: false },
+      { text: "700", correct: true },
     ],
   },
   {
